@@ -11,66 +11,65 @@
 	</head>
 	<body>
 
-		<div class="container m-t-md">
-			<!-- First row -->
-			<div class="row">
-				<div class="col-xs-12 col-md-4">
-					<!-- Card -->
-					<article class="card animated fadeInLeft">
-						<img class="card-img-top img-responsive" src="senior.png"/>
-						<div class="card-block">
+		<div class="jumbotron jumbotron-fluid">
+			<div class="container m-t-md">
+				<!-- First row -->
+				<div class="row">
+					<div class="col-xs-12 col-md-4">
+						<!-- Card -->
+						<article class="card animated fadeInLeft">
+							<img class="card-img-top img-responsive" src="senior.png" alt="Deer in nature" />
+							<div class="card-block">
+								<h4 class="card-title">Oragnization</h4>
+								<h6 class="text-muted">We need help</h6>
+								<a href="#" class="btn btn-primary">Read more</a>
+							</div>
+						</article><!-- .end Card -->
+					</div>
+					<div class="col-xs-12 col-md-4">
+						<!-- Card -->
+						<article class="card animated fadeInUp">
+							<div class="card-block">
+								<h4 class="card-title">senior</h4>
+								<h6 class="text-muted">words</h6>
+							</div>
+							<img class="img-responsive" src="senior.png" alt="Leaf on the street" />
+							<div class="card-block">
+							</div>
 							<div class="card-block text-center">
-							<h4 class="card-title">Organization</h4>
-							<h6 class="text-muted">We could use some help</h6>
-							<a href="#" class="btn btn-primary">Read more</a>
-						</div>
-					</article><!-- .end Card -->
-				</div>
-				<div class="col-xs-12 col-md-4">
-					<!-- Card -->
-					<article class="card animated fadeInUp">
-						<img class="img-responsive" src="senior.png" alt="Leaf on the street" />
-						<div class="card-block">
-						</div>
-						<div class="card-block text-center">
-							<h4 class="card-title">Senior</h4>
-							<h6 class="text-muted">placeholder words</h6>
-							<div class="btn-group hidden-sm-down hidden-md-down" role="group" aria-label="Card buttons">
-								<a href="#" class="btn btn-primary">I need assistance</a>
-								<a href="#" class="btn btn-primary">optional</a>
-							</div>
-							<div class="btn-group-vertical hidden-lg-up" role="group" aria-label="Card buttons">
-								<a href="#" class="btn btn-primary">I need assistance</a>
-									<a href="#" class="btn btn-primary">optional</a>
-							</div>
-						</div>
-					</article><!-- .end Card -->
-				</div>
-				<div class="col-xs-12 col-md-4">
-					<!-- Card -->
-					<article class="card animated fadeInRight">
-
-
-							<img class="card-img-top img-responsive" src="vol.png" alt="White sand" /><div class="card-block">
-
-
-								<div class="card-block text-center">
-									<h4 class="card-title">Volunteers</h4>
-									<h6 class="text-muted">I would like to help</h6>
-									<div class="btn-group hidden-sm-down hidden-md-down" role="group" aria-label="Card buttons">
-										<a href="#" class="card-link"> where to help</a>
-										<a href="#" class="card-link">One time donation</a>
-									</div>
-									<div class="btn-group-vertical hidden-lg-up" role="group" aria-label="Card buttons">
-										<a href="#" class="card-link">where to help</a><br />
-										<a href="#" class="card-link">One time donation</a>
-									</div>
+								<div class="btn-group hidden-sm-down hidden-md-down" role="group" aria-label="Card buttons">
+									<a href="#" class="btn btn-primary">Read more</a>
+									<a href="#" class="btn btn-primary">Save for later</a>
 								</div>
+								<div class="btn-group-vertical hidden-lg-up" role="group" aria-label="Card buttons">
+									<a href="#" class="btn btn-primary">Read more</a>
+									<a href="#" class="btn btn-primary">Save for later</a>
+								</div>
+							</div>
+						</article><!-- .end Card -->
+					</div>
+					<div class="col-xs-12 col-md-4">
+						<!-- Card -->
+						<article class="card animated fadeInRight">
+							<div class="card-block">
+								<h4 class="card-title">volunteer</h4>
+								<h6 class="text-muted">I want to help</h6>
+							</div>
+							<div class="card-block text-center">
+								<div class="btn-group hidden-sm-down hidden-md-down" role="group" aria-label="Card buttons">
+									<a href="#" class="card-link">Read more</a>
+									<a href="#" class="card-link">Save for later</a>
+								</div>
+								<div class="btn-group-vertical hidden-lg-up" role="group" aria-label="Card buttons">
+									<a href="#" class="card-link">Read more</a><br />
+									<a href="#" class="card-link">Save for later</a>
+								</div>
+							</div>
+							<img class="card-img-bottom img-responsive" src="vol.png" alt="spacesaver" />
 
-					</article><!-- .end Card -->
+						</article><!-- .end Card -->
+					</div>
 				</div>
-			</div><!-- .end First row -->
-
 
 	</body>
 </html>
