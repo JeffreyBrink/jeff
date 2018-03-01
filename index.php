@@ -18,11 +18,14 @@
 					<div class="col-xs-12 col-md-4">
 						<!-- Card -->
 						<article class="card animated fadeInLeft">
+
 							<img class="card-img-top img-responsive" src="senior.png" alt="Deer in nature" />
 							<div class="card-block">
+								<div class="card-image-overlay">
 								<h4 class="card-title">Oragnization</h4>
 								<h6 class="text-muted">We need help</h6>
 								<a href="#" class="btn btn-primary">Read more</a>
+							</div>
 							</div>
 						</article><!-- .end Card -->
 					</div>
@@ -66,10 +69,17 @@
 								</div>
 							</div>
 							<img class="card-img-bottom img-responsive" src="vol.png" alt="spacesaver" />
-
 						</article><!-- .end Card -->
 					</div>
 				</div>
-
+				<!-- Card with Center Text Alignment -->
+				<div class="container m-t-md">
+				<div class="card" style="width:20rem;">
+					<div class="card-body text-center">
+						<h4 class="card-title">Card Title</h4>
+						<p class="card-text">This is a card with center text alignment.</p>
+						<a href="#" class="btn btn-primary">Button</a>
+					</div>
+				</div>
 	</body>
 </html>
