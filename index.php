@@ -17,7 +17,7 @@
 				<div class="col-xs-12 col-md-4">
 					<!-- Card -->
 					<article class="card animated fadeInLeft">
-						<img class="card-img-top img-responsive" src="org.png"/>
+						<img class="card-img-top img-responsive" src="senior.png"/>
 						<div class="card-block">
 							<h4 class="card-title">Organization</h4>
 							<h6 class="text-muted">We could use some help</h6>
